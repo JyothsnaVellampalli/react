@@ -1,5 +1,5 @@
 import './App.css';
-import PriceCard from './components/PriceCard';
+import PriceCard from './PriceCard';
 function App() {
 
   let data=[
